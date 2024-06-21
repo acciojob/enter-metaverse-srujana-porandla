@@ -1,5 +1,5 @@
 //your JS code here. If required.
-document.addEventListener('click', function() {
+document.addEventListener('DOMContentLoaded', function() {
     
     const enterBtn = document.getElementById('enterBtn');
     const statusParagraph = document.getElementById('status');
